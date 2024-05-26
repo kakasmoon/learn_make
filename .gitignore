@@ -1,0 +1,54 @@
+# 编译产生的对象文件
+*.o
+*.a
+*.so
+*.dll
+*.dylib
+
+# 生成的可执行文件
+*.exe
+*.out
+*.app
+
+# 编译器中间文件
+*.d
+*.su
+
+# 临时文件和备份文件
+*~
+*.bak
+*.swp
+
+# 编译日志文件
+*.log
+
+# 生成的依赖关系文件
+*.d
+
+# IDE 和编辑器产生的文件
+.vscode/
+.idea/
+*.code-workspace
+*.sublime-project
+*.sublime-workspace
+
+# MacOS 系统文件
+.DS_Store
+
+# Linux 系统文件
+*~
+
+# Windows 系统文件
+Thumbs.db
+Desktop.ini
+
+# 其他
+*.tmp
+*.temp
+*.cache
+
+# 忽略特定目录
+build/
+dist/
+tmp/
+
