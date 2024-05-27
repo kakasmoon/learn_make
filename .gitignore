@@ -5,6 +5,7 @@
 *.dll
 *.dylib
 main
+*debug
 # 生成的可执行文件
 *.exe
 *.out
