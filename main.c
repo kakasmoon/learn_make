@@ -10,5 +10,6 @@ int main(void){
   float s4 = s3+power2(s3);
   float s5 = s4+power3(s4);
   printf("the target is %.2f\n",s5);
+  
   return 0;
 }
