@@ -3,4 +3,5 @@
 
 float power2(float base);
 
+
 #endif
